@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "NODE_ENV=production nodemon ./bin/www",
+    "test": "NODE_ENV=development nodemon ./bin/www"
+  },
+  "dependencies": {
+    "bcrypt": "^0.8.0",
+    "body-parser": "~1.0.0",
+    "cli-color": "^0.3.2",
+    "cookie-parser": "~1.0.1",
+    "debug": "~0.7.4",
+    "express": "~4.2.0",
+    "gridfs-stream": "^0.5.1",
+    "moment": "^2.8.1",
+    "mongoose": "^3.8.14",
+    "morgan": "~1.0.0",
+    "static-favicon": "~1.0.0",
+    "underscore": "^1.6.0"
+  }
+}
