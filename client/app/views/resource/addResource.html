@@ -1,0 +1,42 @@
+<div class="add-resource-container">
+    <div class="col-md-12">
+        <h3 class="signup-header">Add A Resource</h3>
+        <hr>
+        <br>
+    </div>
+    <div class="add-resource-form">
+        <form class="form-horizontal">
+            <!-- Text input-->
+            <div class="form-group">
+                <label class="col-md-4 control-label" for="title">Title</label>
+                <div class="col-md-5">
+                    <input id="title" name="title" class="form-control input-md" type="text" maxlength="255" value="" />
+                </div>
+            </div>
+
+            <!-- Body input-->
+            <div class="form-group">
+                <label class="col-md-4 control-label" for="body">Body</label>
+                <div class="col-md-5">
+                    <textarea id="body" name="body" class="form-control input-md"></textarea>
+                </div>
+            </div>
+
+            <!-- File input-->
+            <div class="form-group">
+                <label class="col-md-4 control-label" for="file">File</label>
+                <div class="col-md-5">
+                    <input id="file" name="file" class="form-control input-md" type="file" />
+                </div>
+            </div>
+
+            <!-- Button -->
+            <div class="form-group">
+                <label class="col-md-4 control-label" for="addResource"></label>
+                <div class="col-md-5">
+                    <button ng-click="signup.submit();" id="addResource" name="addResource" class="btn btn-success btn-block">Add Resource</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

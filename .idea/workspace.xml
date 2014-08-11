@@ -23,31 +23,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="users.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/database/schemas/users.js">
+      <file leaf-file-name="addresource.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/app/scripts/controllers/addresource.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="20" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1037">
+            <state line="11" column="17" selection-start="261" selection-end="261" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/database/index.js">
+      <file leaf-file-name="addresource.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/client/app/views/resource/addresource.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="51" selection-start="165" selection-end="165" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
+            <state line="22" column="18" selection-start="902" selection-end="902" vertical-scroll-proportion="0.30088496" vertical-offset="0" max-vertical-offset="1243">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="resources.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/database/schemas/resources.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="39" selection-start="499" selection-end="499" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
-              <folding>
-                <marker date="1407782010000" expanded="true" signature="404:430" placeholder="{...}" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -55,25 +44,16 @@
       <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/app/scripts/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="37" selection-start="706" selection-end="706" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="799">
+            <state line="34" column="37" selection-start="705" selection-end="705" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="799">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="addResource.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/client/app/views/resource/addResource.html">
+      <file leaf-file-name="signup.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/app/views/signup.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1243">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="resource.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/app/scripts/controllers/resource.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+            <state line="12" column="151" selection-start="551" selection-end="572" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="1105">
               <folding />
             </state>
           </provider>
@@ -105,7 +85,10 @@
         <option value="$PROJECT_DIR$/server/database/index.js" />
         <option value="$PROJECT_DIR$/server/package.json" />
         <option value="$PROJECT_DIR$/server/database/schemas/resources.js" />
+        <option value="$PROJECT_DIR$/client/app/scripts/controllers/resource.js" />
         <option value="$PROJECT_DIR$/client/app/scripts/app.js" />
+        <option value="$PROJECT_DIR$/client/app/scripts/controllers/addresource.js" />
+        <option value="$PROJECT_DIR$/client/app/views/resource/addresource.html" />
       </list>
     </option>
   </component>
@@ -377,6 +360,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/client/app/styles" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/app/views/resource" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -412,7 +398,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17235902" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17235902" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -458,7 +444,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/app/scripts/controllers/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/app/index.html">
@@ -485,7 +473,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/app/scripts/controllers/signup.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="24" selection-start="816" selection-end="816" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="680" />
+        <state line="30" column="24" selection-start="816" selection-end="816" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="680">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/app/scripts/app.js">
@@ -497,7 +487,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/app/scripts/controllers/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/app/index.html">
@@ -509,7 +501,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/app/scripts/controllers/signup.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="24" selection-start="816" selection-end="816" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="680" />
+        <state line="30" column="24" selection-start="816" selection-end="816" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="680">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/app/views/signup.html">
@@ -533,7 +527,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/app/scripts/controllers/signup.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="24" selection-start="816" selection-end="816" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="680" />
+        <state line="30" column="24" selection-start="816" selection-end="816" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="680">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_variables.scss">
@@ -577,21 +573,6 @@
     <entry file="file://$PROJECT_DIR$/client/test/spec/controllers/signup.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/app/scripts/controllers/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1269" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/app/scripts/controllers/signup.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="24" selection-start="816" selection-end="816" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/app/views/signup.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="58" selection-start="1654" selection-end="1654" vertical-scroll-proportion="0.4923572" vertical-offset="0" max-vertical-offset="1243" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/app/views/main.html">
@@ -648,13 +629,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/database/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="51" selection-start="165" selection-end="165" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="30" selection-start="399" selection-end="399" vertical-scroll-proportion="0.20514883" vertical-offset="0" max-vertical-offset="1243">
@@ -664,30 +638,63 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/server/database/schemas/resources.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="39" selection-start="499" selection-end="499" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
-          <folding>
-            <marker date="1407782010000" expanded="true" signature="404:430" placeholder="{...}" />
-          </folding>
+        <state line="19" column="39" selection-start="499" selection-end="499" vertical-scroll-proportion="0.25453112" vertical-offset="0" max-vertical-offset="1269">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/app/scripts/controllers/resource.js">
+    <entry file="file://$PROJECT_DIR$/client/app/scripts/controllers/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1269">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/database/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="51" selection-start="165" selection-end="165" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/form/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="464" selection-end="1689" vertical-scroll-proportion="0.16411906" vertical-offset="0" max-vertical-offset="1243">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/scripts/controllers/signup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="26" selection-start="744" selection-end="744" vertical-scroll-proportion="0.3617021" vertical-offset="0" max-vertical-offset="1269">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/scripts/controllers/addresource.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="17" selection-start="261" selection-end="261" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/views/signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="151" selection-start="551" selection-end="572" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="1105">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/app/scripts/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="37" selection-start="706" selection-end="706" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="799">
+        <state line="34" column="37" selection-start="705" selection-end="705" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="799">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/app/views/resource/addResource.html">
+    <entry file="file://$PROJECT_DIR$/client/app/views/resource/addresource.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1269">
+        <state line="22" column="18" selection-start="902" selection-end="902" vertical-scroll-proportion="0.30088496" vertical-offset="0" max-vertical-offset="1243">
           <folding />
         </state>
       </provider>

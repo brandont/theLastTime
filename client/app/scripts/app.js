@@ -31,9 +31,9 @@ angular
         templateUrl: 'views/signup.html',
         controller: 'SignupCtrl'
       })
-      .when('/add/resource', {
-        templateUrl: 'views/resource/addResource.html',
-        controller: 'ResourceCtrl'
+      .when('/addResource', {
+        templateUrl: 'views/resource/addresource.html',
+        controller: 'AddresourceCtrl'
       })
       .otherwise({
         redirectTo: '/'
