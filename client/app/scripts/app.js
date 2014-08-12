@@ -33,7 +33,7 @@ angular
       })
       .when('/addResource', {
         templateUrl: 'views/resource/addresource.html',
-        controller: 'AddresourceCtrl'
+        controller: 'AddResourceCtrl'
       })
       .otherwise({
         redirectTo: '/'

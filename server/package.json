@@ -13,9 +13,10 @@
     "cookie-parser": "~1.0.1",
     "debug": "~0.7.4",
     "express": "~4.2.0",
-    "gridfs-stream": "^0.5.1",
     "moment": "^2.8.1",
     "mongoose": "^3.8.14",
+    "mongoose-crate": "^1.0.6",
+    "mongoose-crate-gcs": "^1.1.0",
     "morgan": "~1.0.0",
     "static-favicon": "~1.0.0",
     "underscore": "^1.6.0"

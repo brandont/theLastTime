@@ -9,8 +9,17 @@
  */
 angular.module('clientApp')
   .controller('SignupCtrl', function ($scope, $http) {
+    // Here we're creating some local references
+    // so that we don't have to type $scope every
+    // damn time
     var user, signup;
+
+    // Here we're creating a scope for our Signup page.
+    // This will hold our data and methods for this page.
     $scope.signup = signup = {};
+
+    // In our signup.html, we'll be using the ng-model
+    // attribute to populate this object.
     signup.user = user = {};
     signup.submit = function () {
       if (!user.firstname || !user.lastname || !user.email || !user.password1 || !user.password2) {

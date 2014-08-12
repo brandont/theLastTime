@@ -23,37 +23,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="addresource.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/app/scripts/controllers/addresource.js">
+      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/database/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="17" selection-start="261" selection-end="261" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+            <state line="38" column="34" selection-start="1088" selection-end="1088" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="782">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="addresource.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/client/app/views/resource/addresource.html">
+      <file leaf-file-name="resources.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server/database/schemas/resources.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="18" selection-start="902" selection-end="902" vertical-scroll-proportion="0.30088496" vertical-offset="0" max-vertical-offset="1243">
+            <state line="21" column="26" selection-start="555" selection-end="555" vertical-scroll-proportion="0.28132388" vertical-offset="0" max-vertical-offset="1269">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/app/scripts/app.js">
+      <file leaf-file-name="users.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/database/schemas/users.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="37" selection-start="705" selection-end="705" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="799">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="signup.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/app/views/signup.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="151" selection-start="551" selection-end="572" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="1105">
+            <state line="16" column="39" selection-start="489" selection-end="489" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1037">
               <folding />
             </state>
           </provider>
@@ -76,19 +67,21 @@
         <option value="$PROJECT_DIR$/client/app/styles/main.scss" />
         <option value="$PROJECT_DIR$/client/app/views/signup.html" />
         <option value="$PROJECT_DIR$/server/routes/signup.js" />
-        <option value="$PROJECT_DIR$/server/router/index.js" />
         <option value="$PROJECT_DIR$/server/database/schemas/users.js" />
         <option value="$PROJECT_DIR$/server/router/routes/signup.js" />
-        <option value="$PROJECT_DIR$/client/app/scripts/controllers/signup.js" />
-        <option value="$PROJECT_DIR$/client/app/index.html" />
         <option value="$PROJECT_DIR$/server/app.js" />
-        <option value="$PROJECT_DIR$/server/database/index.js" />
         <option value="$PROJECT_DIR$/server/package.json" />
-        <option value="$PROJECT_DIR$/server/database/schemas/resources.js" />
         <option value="$PROJECT_DIR$/client/app/scripts/controllers/resource.js" />
+        <option value="$PROJECT_DIR$/client/app/index.html" />
+        <option value="$PROJECT_DIR$/server/node_modules/mongoose/package.json" />
+        <option value="$PROJECT_DIR$/client/app/scripts/controllers/signup.js" />
         <option value="$PROJECT_DIR$/client/app/scripts/app.js" />
-        <option value="$PROJECT_DIR$/client/app/scripts/controllers/addresource.js" />
         <option value="$PROJECT_DIR$/client/app/views/resource/addresource.html" />
+        <option value="$PROJECT_DIR$/client/app/scripts/controllers/addresource.js" />
+        <option value="$PROJECT_DIR$/server/router/index.js" />
+        <option value="$PROJECT_DIR$/server/router/routes/resource.js" />
+        <option value="$PROJECT_DIR$/server/database/index.js" />
+        <option value="$PROJECT_DIR$/server/database/schemas/resources.js" />
       </list>
     </option>
   </component>
@@ -171,24 +164,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="router" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theLastTime" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theLastTime" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="database" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -225,121 +200,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theLastTime" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theLastTime" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theLastTime" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theLastTime" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theLastTime" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theLastTime" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resource" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theLastTime" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theLastTime" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theLastTime" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theLastTime" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
+              <option name="myItemId" value="data" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -355,6 +216,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="SearchEverywhereHistory" value="" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -396,6 +258,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294753" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17235902" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -406,7 +269,6 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298153" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -458,17 +320,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/server/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="30" selection-start="252" selection-end="252" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="1258" />
+        <state line="7" column="30" selection-start="252" selection-end="252" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="1258">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/server/router/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="1" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="204" />
+        <state line="6" column="1" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="204">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/server/router/routes/signup.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="34" selection-start="1929" selection-end="1929" vertical-scroll-proportion="0.0" vertical-offset="935" max-vertical-offset="1343" />
+        <state line="55" column="34" selection-start="1929" selection-end="1929" vertical-scroll-proportion="0.0" vertical-offset="935" max-vertical-offset="1343">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/app/scripts/controllers/signup.js">
@@ -552,14 +420,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="696" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/logs/mongodb.log">
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1564" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/app/views/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="709" />
@@ -600,45 +460,51 @@
         <state line="429" column="1" selection-start="16321" selection-end="16321" vertical-scroll-proportion="-1.5827339" vertical-offset="7953" max-vertical-offset="14637" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/app/index.html">
+    <entry file="file://$USER_HOME$/Downloads/form/form.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="31" selection-start="1214" selection-end="1214" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1683">
+        <state line="12" column="0" selection-start="464" selection-end="1689" vertical-scroll-proportion="0.16411906" vertical-offset="0" max-vertical-offset="1243">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/router/routes/signup.js">
+    <entry file="file://$PROJECT_DIR$/client/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="27" selection-start="640" selection-end="640" vertical-scroll-proportion="0.53488374" vertical-offset="0" max-vertical-offset="1343" />
+        <state line="26" column="22" selection-start="1037" selection-end="1037" vertical-scroll-proportion="0.3555913" vertical-offset="0" max-vertical-offset="1666">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/router/index.js">
+    <entry file="file://$PROJECT_DIR$/server/node_modules/mongoose/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="1" selection-start="138" selection-end="138" vertical-scroll-proportion="0.13953489" vertical-offset="0" max-vertical-offset="731" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="24" selection-start="434" selection-end="434" vertical-scroll-proportion="0.3255814" vertical-offset="0" max-vertical-offset="1190" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/database/schemas/users.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="20" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1037">
+        <state line="18" column="12" selection-start="333" selection-end="333" vertical-scroll-proportion="0.2461786" vertical-offset="0" max-vertical-offset="1836">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/server/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="30" selection-start="399" selection-end="399" vertical-scroll-proportion="0.20514883" vertical-offset="0" max-vertical-offset="1243">
+        <state line="23" column="0" selection-start="541" selection-end="541" vertical-scroll-proportion="0.31456155" vertical-offset="0" max-vertical-offset="1243">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/database/schemas/resources.js">
+    <entry file="file://$PROJECT_DIR$/server/node_modules/mongoose-crate/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="39" selection-start="499" selection-end="499" vertical-scroll-proportion="0.25453112" vertical-offset="0" max-vertical-offset="1269">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1269">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/node_modules/mongoose-crate/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="717" selection-end="717" vertical-scroll-proportion="0.06904955" vertical-offset="0" max-vertical-offset="3961">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/node_modules/mongoose-crate/test/CrateTest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-3.0409772" vertical-offset="3859" max-vertical-offset="9673">
           <folding />
         </state>
       </provider>
@@ -650,51 +516,96 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/database/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="51" selection-start="165" selection-end="165" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/form/form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="464" selection-end="1689" vertical-scroll-proportion="0.16411906" vertical-offset="0" max-vertical-offset="1243">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/app/scripts/controllers/signup.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="26" selection-start="744" selection-end="744" vertical-scroll-proportion="0.3617021" vertical-offset="0" max-vertical-offset="1269">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/app/scripts/controllers/addresource.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="17" selection-start="261" selection-end="261" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+        <state line="14" column="13" selection-start="358" selection-end="358" vertical-scroll-proportion="0.18754925" vertical-offset="0" max-vertical-offset="1269">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/app/views/signup.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="151" selection-start="551" selection-end="572" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="1105">
+        <state line="12" column="48" selection-start="469" selection-end="469" vertical-scroll-proportion="0.16411906" vertical-offset="0" max-vertical-offset="1243">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/app/scripts/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="37" selection-start="705" selection-end="705" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="799">
+        <state line="35" column="36" selection-start="745" selection-end="760" vertical-scroll-proportion="0.46887314" vertical-offset="0" max-vertical-offset="1269">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/app/views/resource/addresource.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="18" selection-start="902" selection-end="902" vertical-scroll-proportion="0.30088496" vertical-offset="0" max-vertical-offset="1243">
+        <state line="28" column="96" selection-start="1298" selection-end="1298" vertical-scroll-proportion="0.3829445" vertical-offset="0" max-vertical-offset="1243">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/logs/mongodb.log">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="57" selection-start="3357" selection-end="3357" vertical-scroll-proportion="0.5607402" vertical-offset="0" max-vertical-offset="2312">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/router/routes/resource.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="35" selection-start="340" selection-end="340" vertical-scroll-proportion="0.1607565" vertical-offset="0" max-vertical-offset="1269">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="1" selection-start="224" selection-end="224" vertical-scroll-proportion="0.120567374" vertical-offset="0" max-vertical-offset="1269">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="34" selection-start="916" selection-end="916" vertical-scroll-proportion="0.3750985" vertical-offset="0" max-vertical-offset="1269">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/router/routes/signup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="13" selection-start="1144" selection-end="1148" vertical-scroll-proportion="0.4822695" vertical-offset="0" max-vertical-offset="1343">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/scripts/controllers/addresource.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="43" selection-start="565" selection-end="565" vertical-scroll-proportion="0.20094563" vertical-offset="0" max-vertical-offset="1269">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/database/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="34" selection-start="1088" selection-end="1088" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="782">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/database/schemas/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="39" selection-start="489" selection-end="489" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1037">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/database/schemas/resources.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="26" selection-start="555" selection-end="555" vertical-scroll-proportion="0.28132388" vertical-offset="0" max-vertical-offset="1269">
           <folding />
         </state>
       </provider>

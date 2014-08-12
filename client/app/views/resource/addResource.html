@@ -5,12 +5,12 @@
         <br>
     </div>
     <div class="add-resource-form">
-        <form class="form-horizontal">
+        <form class="form-horizontal" enctype="multipart/form-data">
             <!-- Text input-->
             <div class="form-group">
                 <label class="col-md-4 control-label" for="title">Title</label>
                 <div class="col-md-5">
-                    <input id="title" name="title" class="form-control input-md" type="text" maxlength="255" value="" />
+                    <input ng-model="addResource.resource.title" id="title" name="title" class="form-control input-md" type="text" maxlength="255" value="" />
                 </div>
             </div>
 
@@ -18,15 +18,15 @@
             <div class="form-group">
                 <label class="col-md-4 control-label" for="body">Body</label>
                 <div class="col-md-5">
-                    <textarea id="body" name="body" class="form-control input-md"></textarea>
+                    <textarea ng-model="addResource.resource.body" id="body" name="body" class="form-control input-md"></textarea>
                 </div>
             </div>
 
             <!-- File input-->
             <div class="form-group">
-                <label class="col-md-4 control-label" for="file">File</label>
+                <label class="col-md-4 control-label" for="material">Material</label>
                 <div class="col-md-5">
-                    <input id="file" name="file" class="form-control input-md" type="file" />
+                    <input ng-model="addResource.resource.material" id="material" name="material" class="form-control input-md" type="file" />
                 </div>
             </div>
 
@@ -34,7 +34,7 @@
             <div class="form-group">
                 <label class="col-md-4 control-label" for="addResource"></label>
                 <div class="col-md-5">
-                    <button ng-click="signup.submit();" id="addResource" name="addResource" class="btn btn-success btn-block">Add Resource</button>
+                    <button ng-click="addResource.submit();" id="addResource" name="addResource" class="btn btn-success btn-block">Add Resource</button>
                 </div>
             </div>
         </form>
