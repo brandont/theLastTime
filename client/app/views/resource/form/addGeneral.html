@@ -1,0 +1,52 @@
+<div class="add-resource-container">
+    <div class="col-md-12">
+        <h3 class="signup-header">General Attributes</h3>
+        <hr>
+        <br>
+    </div>
+    <div class="add-resource-form">
+        <form class="form-horizontal" enctype="multipart/form-data">
+            <!-- Text input-->
+            <div class="form-group">
+                <label class="col-md-4 control-label" for="title">Title</label>
+                <div class="col-md-5">
+                    <input ng-model="addResource.resource.title" id="title" name="title" class="form-control input-md" type="text" maxlength="255" value="" />
+                </div>
+            </div>
+
+            <!-- Body input-->
+            <div class="form-group">
+                <label class="col-md-4 control-label" for="body">Body</label>
+                <div class="col-md-5">
+                    <textarea ng-model="addResource.resource.body" id="body" name="body" class="form-control input-md"></textarea>
+                </div>
+            </div>
+
+            <!-- File input-->
+            <!--<div class="form-group">-->
+                <!--<label class="col-md-4 control-label" for="material">Material</label>-->
+                <!--<div class="col-md-5">-->
+                    <!--<input ng-file-select="onFileSelect($files)" type="file" name="material" id="material" />-->
+                <!--</div>-->
+            <!--</div>-->
+
+            <!-- Button -->
+            <div class="form-group">
+                <label class="col-md-2 control-label" for="cancel"></label>
+                <div class="col-md-2">
+                    <button ng-click="addResource.submit();" id="cancel" name="cancel" class="btn btn-success btn-block">Cancel</button>
+                </div>
+
+                <label class="col-md-2 control-label" for="save"></label>
+                <div class="col-md-2">
+                    <button ng-click="addResource.submit();" id="save" name="save" class="btn btn-success btn-block">Save</button>
+                </div>
+
+                <label class="col-md-2 control-label" for="continue"></label>
+                <div class="col-md-2">
+                    <button ng-click="addResource.submit();" id="continue" name="continue" class="btn btn-success btn-block">Continue</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

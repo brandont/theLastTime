@@ -24,16 +24,8 @@ angular
         templateUrl: 'views/main.html',
         controller: 'MainCtrl'
       })
-      .when('/about', {
-        templateUrl: 'views/about.html',
-        controller: 'AboutCtrl'
-      })
-      .when('/signup', {
-        templateUrl: 'views/signup.html',
-        controller: 'SignupCtrl'
-      })
-      .when('/addResource', {
-        templateUrl: 'views/resource/addresource.html',
+      .when('/addResource/general', {
+        templateUrl: 'views/resource/form/addGeneral.html',
         controller: 'AddResourceCtrl'
       })
       .otherwise({

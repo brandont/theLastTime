@@ -16,6 +16,7 @@ angular.module('clientApp')
       addResource.submit = function () {
         if (!resource.title || !resource.body) {
           alert('You must complete all fields');
+          return;
         }
         var request = $http.post('/addResource', resource);
         request.success(function (data) {
