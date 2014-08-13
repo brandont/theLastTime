@@ -7,4 +7,7 @@ module.exports = function (app) {
 
   // The add resource route
   app.use('/addResource', require('./routes/resource'));
+
+  // Add the material to GCS
+  app.use('/addMaterial', require('./routes/material'));
 }

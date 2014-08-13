@@ -26,14 +26,14 @@
             <div class="form-group">
                 <label class="col-md-4 control-label" for="material">Material</label>
                 <div class="col-md-5">
-                    <input ng-model="addResource.resource.material" id="material" name="material" class="form-control input-md" type="file" />
+                    <input ng-file-select="onFileSelect($files)" type="file" name="material" id="material" />
                 </div>
             </div>
 
             <!-- Button -->
             <div class="form-group">
-                <label class="col-md-4 control-label" for="addResource"></label>
-                <div class="col-md-5">
+                <label class="col-md-3 control-label" for="addResource"></label>
+                <div class="col-md-6">
                     <button ng-click="addResource.submit();" id="addResource" name="addResource" class="btn btn-success btn-block">Add Resource</button>
                 </div>
             </div>

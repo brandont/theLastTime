@@ -4,6 +4,7 @@
 var mongoose = require('mongoose');
 var UserModel = require('./schemas/users');
 var ResourceModel = require('./schemas/resources');
+var MaterialModel = require('./schemas/materials');
 
 // Connections
 var developmentDb = 'mongodb://localhost/test';
@@ -36,5 +37,6 @@ db.once('open', function callback () {
   console.log('Databsae Connection Successfully Opened at ' + usedDb);
 });
 
+exports.materials = MaterialModel;
 exports.resources = ResourceModel;
 exports.users = UserModel;

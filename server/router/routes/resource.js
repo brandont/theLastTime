@@ -39,7 +39,7 @@ router.post('/', function (req, res) {
         material: body.material
       });
 
-      // save the user to the database
+      // save the resource to the database
       newResource.save(function (err, savedResource, numberAffected) {
         if (err) {
           console.log('Problem saving the resource ' + color.yellow(body.title) + ' due to ' + err);
@@ -50,7 +50,7 @@ router.post('/', function (req, res) {
         // Log success and send the filtered user back
         console.log('Successfully created new resource: ' + color.green(body.title));
         res.status(201).json({
-          'message': 'Successfully created new resource',
+          'message': 'Successfully created new resource'
         });
       });
     }
